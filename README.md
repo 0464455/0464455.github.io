@@ -1,1 +1,4 @@
-# website-capybaras-p8
+# Capybara Website IPAN Capstone
+* Matthew Henriquez
+* Zahir Nelson
+* Myles Green
