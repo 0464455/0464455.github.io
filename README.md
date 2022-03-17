@@ -3,19 +3,9 @@
 * Sapir Gazit
 * Zahir Nelson
 * Myles Green
-<!DOCTYPE HTML>
-<htlm>
-<title>
-Capybaras
-</title>
-<head>
-Welcome to the website
-</head>
-<body>
-<p> This is the first test. </p>
-<br><br>
-<p> [Insert Text Here] </p>
-</body>
-</html>
-  
+
+Website: https://coconutdoggy.neocities.org/
+(Won't work on school wifi tho)
+Stream Kanye and Playboi Carti.
+Stream BLACKPINK too.
  
