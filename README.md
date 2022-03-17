@@ -1,5 +1,6 @@
 # Capybara Website IPAN Capstone
 * Matthew Henriquez
+* Sapir Gazit
 * Zahir Nelson
 * Myles Green
 <!DOCTYPE HTML>
