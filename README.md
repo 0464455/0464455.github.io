@@ -2,7 +2,7 @@
 * Matthew Henriquez
 * Sapir Gazit
 * Zahir Nelson
-* Myles Cyan
+* Myles Magenta
 
 Website: https://coconutdoggy.neocities.org/
 (Won't work on school wifi though.)
